@@ -21,7 +21,7 @@ I'm system engineer student and junior development with six months of experience
   ![Visual Basic](https://img.shields.io/badge/Visual_Basic_aplications-darkblue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)
   ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)
   ![C#](https://img.shields.io/badge/C_Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
-  ![Phyton](https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=Phyton&logoColor=white&labelColor=101010)
+  ![python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
   </br>
   ![NodeJs](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.Js&logoColor=white&labelColor=101010)
   ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)
