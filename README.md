@@ -28,7 +28,7 @@ I'm system engineer student and junior development with six months of experience
   ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
   </br>
   
-## Experience:
+## Experience
 
 ### SCHWEITZER ENGINEERING LABORATORIES. (July 2022- January 2023)
 #### IT Technician Intern
