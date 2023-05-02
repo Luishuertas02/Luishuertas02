@@ -12,7 +12,7 @@ I'm system engineer student and junior development with six months of experience
   ![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=101010)</br>
   ![Spring boot](https://img.shields.io/badge/Spring_boot-green?style=for-the-badge&logo=Springboot&logoColor=white&labelColor=101010)</br>
   ![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)</br>
-
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)</br>
 
 ### programming languages:
 
