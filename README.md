@@ -41,4 +41,4 @@ I'm system engineer student and junior development with six months of experience
 
 [![Email](https://img.shields.io/badge/sebastianhuertast@hotmail.com-email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010)](mailto:sebastianhuertast@hotmail.com)
 </br>
-
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.buymeacoffee.com/mouredev](https://www.linkedin.com/in/luis-sebastian-huertas-torres-816b4a215/))
