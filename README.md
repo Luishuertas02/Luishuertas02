@@ -1,5 +1,5 @@
-### 👋 Hi there, my name is Luis Huertas  
+# 👋 Hi there, my name is Luis Huertas  
 
-## I'm system engineer student and junior development 
+### I'm system engineer student and junior development 
 
 
