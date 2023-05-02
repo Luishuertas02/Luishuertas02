@@ -19,7 +19,7 @@ I'm system engineer student and junior development with six months of experience
   ![Visual Basic](https://img.shields.io/badge/Visual_Basic_aplications-darkblue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>
   ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)</br>
   ![C#](https://img.shields.io/badge/C_Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
-  ![NodeJs](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=NodeJs&logoColor=white&labelColor=101010)</br>
+  ![NodeJs](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.Js&logoColor=white&labelColor=101010)</br>
   ![HTML5](https://img.shields.io/badge/Spring_boot-green?style=for-the-badge&logo=Springboot&logoColor=white&labelColor=101010)</br>
   ![Css](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)</br>
   ![C++](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)</br>
