@@ -7,6 +7,13 @@ I'm system engineer student and junior development with six months of experience
 ### Software:
 
   ![Unity](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-red?style=for-the-badge&logo=MicrosoftOffice&logoColor=white&labelColor=101010)</br>
+  ![GitHub](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![GitHub Zen](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![Eclipse](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![Spring boot](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![Scrum](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+
 
 ### programming languages:
 
