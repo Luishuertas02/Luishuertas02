@@ -4,10 +4,10 @@ I'm system engineer student and junior development with six months of experience
 
 ## Skills
   
-### Software
+### Software:
 
 
-### programming languages
+### programming languages:
 
 
 ## Experience 
