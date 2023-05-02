@@ -16,7 +16,7 @@ I'm system engineer student and junior development with six months of experience
 
 ### programming languages:
 
-  ![Visual Basic](https://img.shields.io/badge/Visual_Basic-darkblue?style=for-the-badge&logo=VisualBasic&logoColor=white&labelColor=101010)</br>
+  ![Visual Basic](https://img.shields.io/badge/Visual_Basic-darkblue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-red?style=for-the-badge&logo=MicrosoftOffice&logoColor=white&labelColor=101010)</br>
   ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)</br>
   ![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=101010)</br>
