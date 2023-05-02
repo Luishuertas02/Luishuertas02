@@ -29,3 +29,6 @@ I'm system engineer student and junior development with six months of experience
 ### SCHWEITZER ENGINEERING LABORATORIES. (July 2022- January 2023)
 #### IT Technician Intern
 ##### features:
+- Manage requests, troubleshoot issues, isolate and resolve problems. 
+- Support IT-related systems. Administer special projects as assigned. 
+- Create and maintain documentation as necessary.
