@@ -6,7 +6,7 @@ I'm system engineer student and junior development with six months of experience
   
 ### Software:
 
-  ![Unity](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
+  ![Unity](https://img.shields.io/badge/Unity-lightgrey?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-red?style=for-the-badge&logo=MicrosoftOffice&logoColor=white&labelColor=101010)</br>
   ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)</br>
   ![GitHub Zen](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)</br>
