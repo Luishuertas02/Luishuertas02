@@ -26,3 +26,5 @@ I'm system engineer student and junior development with six months of experience
   
 ## Experience:
 
+### SCHWEITZER ENGINEERING LABORATORIES . (July 2022- January 2023)
+#### IT Technician Intern
