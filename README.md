@@ -36,3 +36,9 @@ I'm system engineer student and junior development with six months of experience
 - Manage requests, troubleshoot issues, isolate and resolve problems. 
 - Support IT-related systems. Administer special projects as assigned. 
 - Create and maintain documentation as necessary.
+
+## Contact me
+
+[![Email](https://img.shields.io/badge/sebastianhuertast@hotmail.com-email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010)](mailto:sebastianhuertast@hotmail.com)
+</br>
+
