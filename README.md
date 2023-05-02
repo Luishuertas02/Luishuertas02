@@ -21,7 +21,7 @@ I'm system engineer student and junior development with six months of experience
   ![C#](https://img.shields.io/badge/C_Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
   ![NodeJs](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.Js&logoColor=white&labelColor=101010)</br>
   ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)</br>
-  ![Css](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)</br>
-  ![C++](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)</br>
+  ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white&labelColor=101010)</br>
+  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)</br>
   
 ## Experience 
