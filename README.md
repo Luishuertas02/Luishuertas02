@@ -6,6 +6,7 @@ I'm system engineer student and junior development with six months of experience
   
 ### Software:
 
+  https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010
 
 ### programming languages:
 
