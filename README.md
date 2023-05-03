@@ -16,7 +16,7 @@ I'm system engineer student and junior development with six months of experience
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)
   </br>
 
-### programming languages:
+### Programming languages:
 
   ![Visual Basic](https://img.shields.io/badge/Visual_Basic_aplications-darkblue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)
   ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)
@@ -28,6 +28,11 @@ I'm system engineer student and junior development with six months of experience
   ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)
   ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
   </br>
+  
+### Data base:
+
+  ![Mongo DB](https://img.shields.io/badge/Mongo_DB-green?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)
+  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)
   
 ## Experience
 
